@@ -1,0 +1,24 @@
+name: Deploy Website - MohammadAmir.github.io
+
+on:
+  push:
+    branches:
+      - ReactCode
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Use Node.js 12.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+      - name: Build and Deploy Website
+        env:
+          GH_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+        run: |
+            git config --global user.email amirbbd89@gmail.com
+            git config --global user.name mohammad-amir
+            yarn deployInPipeline
