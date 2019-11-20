@@ -1,0 +1,105 @@
+{
+  "profileImageId": "1l6-ha1Jp6iDKxeCrn9SxIFdWccRz1JhY",
+  "signatureImageId": "1Km3U42PndFhMZjWrgVPB8CdlhPpD84rY",
+  "resumePdfId": "1XYyq4I4H5KYYwjD1vPCmKJMe2TWwSy0X",
+  "name": "Mohammad Amir",
+  "position": "Lead Software Engineer",
+  "socialLinks": [
+    {"iconClass": "fa fa-linkedin", "url": "https://linkedin.com/in/mohammad-amir"},
+    {"iconClass": "fa fa-github", "url": "https://github.com/mohammad-amir"}
+  ],
+  "linkedInUrl": "https://linkedin.com/in/mohammad-amir",
+  "githubUrl": "https://github.com/mohammad-amir",
+  "nationality": "INDIA",
+  "mobileNo": "+49 17676403236, +91 9026995145",
+  "emailId": "amirbbd89@gmail.com",
+  "intro": [
+    "I am a creative, results-driven, customer-focused, highly motivated and analytical Lead Developer.",
+    "Experienced in end-to-end application development using modern technologies and frameworks."
+  ],
+  "careerObjective" : "To obtain a responsible and challenging position with a progressive organization where I can contribute my knowledge and work experience in application development for mutually beneficial growth relationship between the organization and myself.",
+  "profileSummary": [
+    "Currently working as Lead Software Engineer at LegalHero GmbH, Berlin, Germany.",
+    "Having 9+ years of experience in End-to-End Web Application Development using Java/SpringBoot/React and other Javascript based technologies and frameworks.",
+    "Good experience of Software Development Life Cycle policies and procedures implementation with Agile Methodologies(SCRUM and KANBAN)"
+  ],
+  "profileSummarySkills": [
+    "System Design",
+    "Performance Tuning",
+    "Backend Development",
+    "Front End Development"
+  ],
+  "mainSkills":[
+    {"name":"JAVA, J2EE", "score":90},
+    {"name":"Spring Boot", "score":75},
+    {"name":"Microservices", "score":60},
+    {"name":"Hibernate", "score":75},
+    {"name":"Groovy/Grails", "score":75},
+    {"name":"React JS", "score":75},
+    {"name":"JQuery/JS/CSS", "score":60},
+    {"name":"Git", "score":90}
+  ],
+  "otherSkills":[
+    {"name":"IntelliJ IDEA", "score":90},
+    {"name":"MySQL, PostgreSQL", "score":90},
+    {"name":"AWS(EC2, Lambda)", "score":60},
+    {"name":"IBatis, MyBatis", "score":60},
+    {"name":"Jenkins, Circle CI", "score":60},
+    {"name":"Kibana, Splunk", "score":60}
+  ],
+  "experiences": [
+    {
+      "duration": "2019-Present",
+      "title": "Lead Software Engineer",
+      "organisation": "LegalHero GmbH, Berlin, Germany",
+      "technologies": "Java8, SpringBoot, Groovy/Grails, React JS, Hibernate, Kibana, Google AppScript, AWS Lambda, IntelliJ Idea, Git, Circle CI, MySql.",
+      "responsibilities": [
+        "Understanding business requirements.",
+        "System Architecture and Database design.",
+        "Estimation & implementation of features.",
+        "Performance tuning and r​oot cause analysis for ​system issues.",
+        "Rollout/Migration planning.",
+        "Demonstrating the product features."
+      ]
+    },
+    {
+      "duration": "2015-2018",
+      "title": "Full Stack Software Engineer",
+      "organisation": "Emaratech FZ LLC, Dubai, UAE",
+      "technologies": "Java8, SpringBoot, Hibernate, Microservice, JSF, Javascript, CSS, JQuery, Thymeleaf, Splunk, IntelliJ Idea, Git, SVN, Jenkins, Putty, Oracle."
+    },
+    {
+      "duration": "2013-2015",
+      "title": "Associate Technology Level 2",
+      "organisation": "Sapient Consulting Pvt Ltd, Noida, India",
+      "technologies": "Java, Spring, Hibernate, Hybris, Eclipse, Git, Jenkins, MySql, Oracle."
+    },
+    {
+      "duration": "2012-2013",
+      "title": "Software Consultant",
+      "organisation": "Prospecta Software, Gurgaon, India",
+      "technologies": "Java, Spring, Hibernate, Eclipse, Git, SVN, Jenkins, Oracle, Flex, Actionscript, JSP, JavaScript, CSS, JQuery, Bootstrap."
+    },
+    {
+      "duration": "2010-2012",
+      "title": "Web Developer",
+      "organisation": "DEI MHRD EDRP, Agra, India",
+      "technologies": "Java, Spring, Hibernate, iBatis, Eclipse, Git, Jenkins, MySql, Flex, Actionscript, JSP, JavaScript, CSS, JQuery."
+    }
+  ],
+  "educations": [
+    {
+      "duration": "2005-2009",
+      "title": "B.Tech - Information Technology",
+      "instituteUniversity": "B.B.D. National Institute of Technology and Management, Lucknow",
+      "details": "Completed B.Tech (Information Technology) with 71.24% from B.B.D. National Institute of Technology and Management, Lucknow, India."
+    }
+  ],
+  "totalYearsOfExperience": 9,
+  "totalProjects": 9,
+  "awardsWon": 1,
+  "mainApiUrl": "https://script.google.com/macros/s/AKfycbzvRPmojdIbe3KxJuylWvH1RJvc8b2EbGdTWrHaTAaHHmAG4j8/exec",
+  "addressLineOne": "Einbecker Str 78",
+  "addressLineTwo": "10315 Berlin, Germany",
+  "locationMapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.4052004470427!2d13.506176816184293!3d52.50800567981192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84ec7de00d2cb%3A0x59fd1eb88b58fb21!2sEinbecker%20Str.%2078%2C%2010315%20Berlin!5e0!3m2!1sen!2sde!4v1575166591260!5m2!1sen!2sde"
+}
