@@ -594,13 +594,13 @@ SOCIAL ICON
 
 .myphoto{
   position: relative;
-  background: url(../images/photo-frame.png) bottom center no-repeat;
-  background-size: contain;
+  border: 10px solid #FFFFFF;
 }
 
 .myphoto img{
   position: relative;
   z-index: -1;
+  border-radius: 50%;
 }
 
 .biography ul{
