@@ -19,7 +19,7 @@ export const Home = ({name, position, intro, socialLinks, displayPosition}) =>
                     {
                         socialLinks ? socialLinks.map((socialLink, key) =>
                             <li  {...{key}}>
-                                <a href={socialLink.url} target="_blank">
+                                <a href={socialLink.url} target="_blank" rel="noopener noreferrer">
                                     <i className={socialLink.iconClass}/>
                                 </a>
                             </li>
@@ -153,5 +153,3 @@ export const Skills = ({mainSkills, otherSkills}) =>
         </div>
     </section>
 ;
-
-const Blink = ({children}) => <span className="blink">{children}</span>;

@@ -11,22 +11,22 @@ export const ContactInfo = ({mainApiUrl, addressLineOne, addressLineTwo, locatio
                         <form name="contact-form" id="contactForm" action={mainApiUrl} method="POST">
                             <div className="form-group">
                                 <label htmlFor="name">Name</label>
-                                <input type="text" name="name" className="form-control" id="name" required=""/>
+                                <input type="text" name="name" className="form-control" id="name" required="true"/>
                             </div>
 
                             <div className="form-group">
                                 <label htmlFor="email">Email</label>
-                                <input type="email" name="email" className="form-control" id="email" required=""/>
+                                <input type="email" name="email" className="form-control" id="email" required="true"/>
                             </div>
 
                             <div className="form-group">
                                 <label htmlFor="subject">Subject</label>
-                                <input type="text" name="subject" className="form-control" id="subject"/>
+                                <input type="text" name="subject" className="form-control" id="subject" required="true"/>
                             </div>
 
                             <div className="form-group">
                                 <label htmlFor="message">Message</label>
-                                <textarea name="message" className="form-control" id="message" rows="5" required=""/>
+                                <textarea name="message" className="form-control" id="message" rows="5" required="true"/>
                             </div>
 
                             <button type="submit" name="submit" className="btn btn-primary">Send Message</button>
@@ -61,7 +61,7 @@ export const ContactInfo = ({mainApiUrl, addressLineOne, addressLineTwo, locatio
                     <div className="row">
                         <div className="col-sm-12">
                             <div className="location-map">
-                                <iframe src={locationMapUrl} width="100%" height="350" frameBorder="0" style={{border:"0"}} allowFullScreen=""/>
+                                <iframe src={locationMapUrl} title="locationMapUrl" width="100%" height="350" frameBorder="0" style={{border:"0"}} allowFullScreen=""/>
                             </div>
                         </div>
                     </div>
