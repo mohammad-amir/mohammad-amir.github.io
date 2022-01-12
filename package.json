@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mohammadamir.de",
+  "homepage": "https://mohammad-amir.github.io",
   "dependencies": {
     "node-sass": "^4.13.0",
     "react": "^16.12.0",
@@ -10,7 +10,7 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
-    "predeploy": "yarn install && yarn build && cp CNAME build",
+    "predeploy": "yarn install && yarn build",
     "deploy": "gh-pages -b master -d build",
     "predeployInPipeline": "yarn run predeploy",
     "deployInPipeline": "gh-pages-with-token -b master -d build",
