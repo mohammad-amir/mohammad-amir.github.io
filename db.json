@@ -64,6 +64,19 @@
       ]
     },
     {
+      "duration": "2018-2019",
+      "title": "Senior Software Engineer",
+      "organisation": "Auto1 GmbH, Berlin, Germany",
+      "technologies": "Java8, SpringBoot, Hibernate, Kibana, Google AppScript, AWS Lambda, IntelliJ Idea, Git, jenkins, MySql, Postgresql.",
+      "responsibilities": [
+        "Understanding business requirements.",
+        "Estimation & implementing Rest API's for different project requirements.",
+        "Implementing Microservice for new requirments"
+        "Performance tuning and root cause analysis for system issues.",
+        "Bug fixing."
+      ]
+    },
+    {
       "duration": "2015-2018",
       "title": "Full Stack Software Engineer",
       "organisation": "Emaratech FZ LLC, Dubai, UAE",
