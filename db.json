@@ -71,7 +71,7 @@
       "responsibilities": [
         "Understanding business requirements.",
         "Estimation & implementing Rest API's for different project requirements.",
-        "Implementing Microservice for new requirments"
+        "Implementing Microservice for new requirments",
         "Performance tuning and root cause analysis for system issues.",
         "Bug fixing."
       ]
