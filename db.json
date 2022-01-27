@@ -33,18 +33,18 @@
   ],
   "mainSkills":[
     {"name":"JAVA, J2EE", "score":90},
-    {"name":"Spring Boot", "score":75},
+    {"name":"Spring Boot", "score":80},
     {"name":"Microservices", "score":60},
     {"name":"Hibernate", "score":75},
-    {"name":"Groovy/Grails", "score":75},
+    {"name":"Groovy/Grails", "score":80},
     {"name":"React JS", "score":75},
-    {"name":"JQuery/JS/CSS", "score":60},
+    {"name":"JQuery/JS/CSS", "score":70},
     {"name":"Git", "score":90}
   ],
   "otherSkills":[
     {"name":"IntelliJ IDEA", "score":90},
     {"name":"MySQL, PostgreSQL", "score":90},
-    {"name":"AWS(EC2, Lambda)", "score":60},
+    {"name":"AWS(EC2, Lambda)", "score":75},
     {"name":"IBatis, MyBatis", "score":60},
     {"name":"Jenkins, Circle CI", "score":60},
     {"name":"Kibana, Splunk", "score":60}
@@ -104,7 +104,7 @@
     }
   ],
   "totalYearsOfExperience": 12,
-  "totalProjects": 9,
+  "totalProjects": 10,
   "awardsWon": 1,
   "mainApiUrl": "https://script.google.com/macros/s/AKfycbzvRPmojdIbe3KxJuylWvH1RJvc8b2EbGdTWrHaTAaHHmAG4j8/exec",
   "addressLineOne": "Lehderstraße 5",
