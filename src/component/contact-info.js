@@ -6,7 +6,7 @@ export const ContactInfo = ({mainApiUrl, addressLineOne, addressLineTwo, locatio
             <h2 className="section-title wow fadeInUp">Get in touch</h2>
 
             <div className="row">
-                <div className="col-md-6">
+                <div className="col-md-12">
                     <div className="contact-form">
                         <form name="contact-form" id="contactForm" action={mainApiUrl} method="POST">
                             <div className="form-group">
@@ -32,40 +32,6 @@ export const ContactInfo = ({mainApiUrl, addressLineOne, addressLineTwo, locatio
                             <button type="submit" name="submit" className="btn btn-primary">Send Message</button>
                         </form>
                     </div>
-                </div>
-
-                <div className="col-md-6">
-                    <div className="row center-xs">
-                        <div className="col-sm-6 col-xs-6">
-                            <i className="fa fa-map-marker"/>
-                            <address>
-                                <strong>Address/Street</strong>
-                                {addressLineOne},<br/>
-                                {addressLineTwo}
-                            </address>
-                        </div>
-
-                        <div className="col-sm-6 col-xs-6">
-                            <i className="fa fa-mobile"/>
-                            <div className="contact-number">
-                                <strong>Phone Number</strong>
-                                {
-                                    mobileNo ? mobileNo.split(",").map(mobile =>
-                                        <span key={mobile}>{mobile}<br/></span>
-                                    ): null
-                                }
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="row">
-                        <div className="col-sm-12">
-                            <div className="location-map">
-                                <iframe src={locationMapUrl} title="locationMapUrl" width="100%" height="350" frameBorder="0" style={{border:"0"}} allowFullScreen=""/>
-                            </div>
-                        </div>
-                    </div>
-
                 </div>
             </div>
         </div>
