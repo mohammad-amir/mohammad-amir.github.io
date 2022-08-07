@@ -47,7 +47,6 @@ export const About = ({profileImageId, name, nationality, emailId, mobileNo, car
                             <li><strong>Name: </strong>{name}</li>
                             <li><strong>Nationality: </strong>{nationality}</li>
                             <li><strong>Email: </strong>{emailId}</li>
-                            <li><strong>Phone: </strong>{mobileNo}</li>
                         </ul>
                     </div>
                 </div>
