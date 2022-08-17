@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mohammad-amir.github.io",
+  "homepage": "https://mohammadamir.de",
   "dependencies": {
     "node-sass": "^4.13.0",
     "react": "^16.12.0",
