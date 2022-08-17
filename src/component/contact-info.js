@@ -4,7 +4,6 @@ export const ContactInfo = ({mainApiUrl, addressLineOne, addressLineTwo, locatio
     <section id="contact" className="contact-section section-padding">
         <div className="container">
             <h2 className="section-title wow fadeInUp">Get in touch</h2>
-
             <div className="row">
                 <div className="col-md-12">
                     <div className="contact-form">
