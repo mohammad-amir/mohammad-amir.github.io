@@ -4,7 +4,7 @@
   "resumePdfId": "13Lf9v6r8-KSZTNYPW3mIXhT_UOND7YJc",
   "resumeGDocId": "1FmCRNkWhF850drZ8NwjiAepf59SDCB_naqT_5Ect-_o",
   "name": "Mohammad Amir",
-  "position": "Lead Software Engineer",
+  "position": "Software Architect",
   "socialLinks": [
     {"iconClass": "fa fa-linkedin", "url": "https://linkedin.com/in/mohammad-amir"},
     {"iconClass": "fa fa-github", "url": "https://github.com/mohammad-amir"},
@@ -20,7 +20,7 @@
   ],
   "careerObjective" : "To obtain a responsible and challenging position with a progressive organization where I can contribute my knowledge and work experience in application development for mutually beneficial growth relationship between the organization and myself.",
   "profileSummary": [
-    "Currently working as Lead Software Engineer at LegalHero GmbH, Berlin, Germany.",
+    "Currently working as Software Architect at LegalHero GmbH, Berlin, Germany.",
     "Having 12+ years of experience in End-to-End Web Application Development using Java/SpringBoot/React and other Javascript based technologies and frameworks.",
     "Good experience of Software Development Life Cycle policies and procedures implementation with Agile Methodologies(SCRUM and KANBAN)"
   ],
@@ -50,8 +50,8 @@
   ],
   "experiences": [
     {
-      "duration": "2019-Present",
-      "title": "Lead Software Engineer",
+      "duration": "2022-2022",
+      "title": "Software Architect",
       "organisation": "LegalHero GmbH, Berlin, Germany",
       "technologies": "Java8, SpringBoot, Groovy/Grails, React JS, Hibernate, Kibana, Google AppScript, AWS Lambda, IntelliJ Idea, Git, Circle CI, MySql.",
       "responsibilities": [
@@ -62,6 +62,11 @@
         "Rollout/Migration planning.",
         "Demonstrating the product features."
       ]
+    },{
+      "duration": "2019-2022",
+      "title": "Lead Software Engineer",
+      "organisation": "LegalHero GmbH, Berlin, Germany",
+      "technologies": "Java8, SpringBoot, Groovy/Grails, React JS, Hibernate, Kibana, Google AppScript, AWS Lambda, IntelliJ Idea, Git, Circle CI, MySql."
     },
     {
       "duration": "2018-2019",
