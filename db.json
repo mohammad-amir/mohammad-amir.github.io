@@ -50,21 +50,18 @@
   ],
   "experiences": [
     {
-      "duration": "2022-2022",
+      "duration": "Oct 2022-Present",
       "title": "Software Architect",
       "organisation": "LegalHero GmbH, Berlin, Germany",
-      "technologies": "Java8, SpringBoot, Groovy/Grails, React JS, Hibernate, Kibana, Google AppScript, AWS Lambda, IntelliJ Idea, Git, Circle CI, MySql.",
-      "responsibilities": [
-        "Understanding business requirements.",
-        "System Architecture and Database design.",
-        "Estimation & implementation of features.",
-        "Performance tuning and root cause analysis for system issues.",
-        "Rollout/Migration planning.",
-        "Demonstrating the product features."
-      ]
+      "technologies": "Java8, SpringBoot, Groovy/Grails, React JS, Hibernate, Kibana, Google AppScript, AWS Lambda, IntelliJ Idea, Git, Circle CI, MySql."
     },{
-      "duration": "2019-2022",
+      "duration": "Jul 2019-Sep 2022",
       "title": "Lead Software Engineer",
+      "organisation": "LegalHero GmbH, Berlin, Germany",
+      "technologies": "Java8, SpringBoot, Groovy/Grails, React JS, Hibernate, Kibana, Google AppScript, AWS Lambda, IntelliJ Idea, Git, Circle CI, MySql."
+    },{
+      "duration": "Jan 2019- June 2019",
+      "title": "Senior Software Engineer",
       "organisation": "LegalHero GmbH, Berlin, Germany",
       "technologies": "Java8, SpringBoot, Groovy/Grails, React JS, Hibernate, Kibana, Google AppScript, AWS Lambda, IntelliJ Idea, Git, Circle CI, MySql."
     },
