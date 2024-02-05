@@ -32,7 +32,7 @@ export const Home = ({name, position, intro, socialLinks, displayPosition}) =>
     </section>
 ;
 
-export const About = ({profileImageId, name, nationality, emailId, mobileNo, careerObjective, profileSummary, profileSummarySkills, signatureImageId, resumePdfId}) =>
+export const About = ({profileImageId, name, nationality, emailId, mobileNo, careerObjective, profileSummary, profileSummarySkills, signatureImageId, resumeGDocId}) =>
     <section id="about" className="about-section section-padding">
         <div className="container">
             <h2 className="section-title wow fadeInUp">About Me</h2>
@@ -84,8 +84,8 @@ export const About = ({profileImageId, name, nationality, emailId, mobileNo, car
                         <a className="btn btn-info btn-lg" href="#contact">
                             <i className="fa fa-paper-plane"/>Send me message
                         </a>
-                        <a className="btn btn-primary btn-lg"
-                           href={"https://drive.google.com/uc?export=download&id="+resumePdfId}>
+                        <a className="btn btn-primary btn-lg" target="_detail"
+                           href={"https://docs.google.com/document/d/" + resumeGDocId + "/export?format=pdf"}>
                             <i className="fa fa-download"/>Download My Resume
                         </a>
                     </div>
