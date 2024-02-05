@@ -21,7 +21,7 @@
   "careerObjective" : "To obtain a responsible and challenging position with a progressive organization where I can contribute my knowledge and work experience in application development for mutually beneficial growth relationship between the organization and myself.",
   "profileSummary": [
     "Currently working as Software Architect at LegalHero GmbH, Berlin, Germany.",
-    "Having 12+ years of experience in End-to-End Web Application Development using Java/SpringBoot/React and other Javascript based technologies and frameworks.",
+    "Having 14+ years of experience in End-to-End Web Application Development using Java/SpringBoot/React and other Javascript based technologies and frameworks.",
     "Good experience of Software Development Life Cycle policies and procedures implementation with Agile Methodologies(SCRUM and KANBAN)"
   ],
   "profileSummarySkills": [
@@ -53,7 +53,7 @@
       "duration": "Oct 2022-Present",
       "title": "Software Architect",
       "organisation": "LegalHero GmbH, Berlin, Germany",
-      "technologies": "Java8, SpringBoot, Groovy/Grails, React JS, Hibernate, Kibana, Google AppScript, AWS Lambda, IntelliJ Idea, Git, Circle CI, MySql."
+      "technologies": "Java8, Kotlin, Micronaut, SpringBoot, Groovy/Grails, React JS, Hibernate, Kibana, Google AppScript, AWS Lambda, IntelliJ Idea, Git, Circle CI, MySql."
     },{
       "duration": "Jul 2019-Sep 2022",
       "title": "Lead Software Engineer",
@@ -104,8 +104,8 @@
       "details": "Completed B.Tech (Information Technology) with 71.24% from B.B.D. National Institute of Technology and Management, Lucknow, India."
     }
   ],
-  "totalYearsOfExperience": 13,
-  "totalProjects": 11,
+  "totalYearsOfExperience": 15,
+  "totalProjects": 12,
   "awardsWon": 1,
   "mainApiUrl": "https://script.google.com/macros/s/AKfycbzvRPmojdIbe3KxJuylWvH1RJvc8b2EbGdTWrHaTAaHHmAG4j8/exec"
 }
